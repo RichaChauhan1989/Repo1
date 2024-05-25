@@ -1,11 +1,2 @@
- Volume in drive C is Windows
- Volume Serial Number is 70AF-ABE1
+Hi,Let change the text file data.
 
- Directory of C:\Users\ri00009\Desktop\MyProject
-
-25/05/2024  04:26 pm    <DIR>          .
-25/05/2024  04:19 pm    <DIR>          ..
-25/05/2024  04:25 pm    <DIR>          .git
-25/05/2024  04:26 pm                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  366,395,322,368 bytes free
